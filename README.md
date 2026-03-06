@@ -2,12 +2,6 @@
 
 <br/>
 
-```
-╔═══════════════════════════════════════════════════╗
-║   admob-native-fullscreen-compose                 ║
-╚═══════════════════════════════════════════════════╝
-```
-
 # 📱 AdMob Native Fullscreen · Compose
 
 > A full-screen Native AdMob ad implementation for Jetpack Compose with animated UI,  
